@@ -1,2 +1,5 @@
 odp-sdk
 pyarrow
+matplotlib
+folium
+mapclassify
